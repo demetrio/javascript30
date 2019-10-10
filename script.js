@@ -13,7 +13,9 @@ function fetchMovieList(request) {
             }
         })
         .then(function(response) {
-            console.log(response);
+            response.forEach(movie => {
+                createPractice(movie);
+            });
         })
         .catch(error => {
             console.log.error(error);
