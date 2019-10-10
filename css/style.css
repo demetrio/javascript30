@@ -1,0 +1,54 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #555;
+    font-size: 1rem;
+    background: url(https://javascript30.com/images/topographic-pattern.png);
+}
+
+h1 {
+    font-size: 2.75rem;
+    margin: 0;
+}
+
+.portfolio-title.wesbos {
+    text-decoration: none;
+    font-size: 1.75rem;
+    font-weight: 700;
+    transform: scale(1);
+    transition: transform 250ms;
+    color: #ffc600;
+    margin: 1em;
+}
+
+.portfolio-title.wesbos:hover,
+.portfolio-title.wesbos:focus {
+    transform: scale(1.1);
+}
+
+.portfolio {
+    padding: 1em;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 1em;
+}
+
+.portfolio-title {
+    text-align: center;
+    color: #000000;
+    grid-column: 1 / -1;
+}
+
+img {
+    max-width: 100%;
+}
+
+.portfolio-card {
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.25);
+    padding: 1em;
+    background: white;
+}
+
+.portfolio-card-title {
+    font-size: 1.5rem;
+    color: #000;
+}
