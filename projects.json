@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "JavaScript Drum Kit"
+    },
+    {
+        "id": "2",
+        "name": "JS and CSS Clock"
+    },
+    {
+        "id": "3",
+        "name": "CSS Variables"
+    },
+    {
+        "id": "4",
+        "name": "Array Cardio Day 1"
+    },
+    {
+        "id": "5",
+        "name": "Flex Panel Gallery"
+    },
+    {
+        "id": "6",
+        "name": "Type Ahead"
+    },
+    {
+        "id": "7",
+        "name": "Array Cardio Day 2"
+    },
+    {
+        "id": "8",
+        "name": "Fun with HTML5 Canvas"
+    },
+    {
+        "id": "9",
+        "name": "Dev Tools Domination"
+    },
+    {
+        "id": "10",
+        "name": "Hold Shift and Check Checkboxes"
+    },
+    {
+        "id": "11",
+        "name": "Custom Video Player"
+    },
+    {
+        "id": "12",
+        "name": "Key Sequence Detection"
+    },
+    {
+        "id": "13",
+        "name": "Slide in on Scroll"
+    },
+    {
+        "id": "14",
+        "name": "JavaScript References VS Copying"
+    },
+    {
+        "id": "15",
+        "name": "LocalStorage"
+    },
+    {
+        "id": "16",
+        "name": "Mouse Move Shadow"
+    },
+    {
+        "id": "17",
+        "name": "Sort Without Articles"
+    },
+    {
+        "id": "18",
+        "name": "Adding Up Times with Reduce"
+    },
+    {
+        "id": "19",
+        "name": "Webcam Fun"
+    },
+    {
+        "id": "20",
+        "name": "Speech Detection"
+    },
+    {
+        "id": "21",
+        "name": "Geolocation"
+    },
+    {
+        "id": "22",
+        "name": "Follow Along Link Highlighter"
+    },
+    {
+        "id": "23",
+        "name": "Speech Synthesis"
+    },
+    {
+        "id": "24",
+        "name": "Sticky Nav"
+    },
+    {
+        "id": "25",
+        "name": "Event Capture, Propagation, Bubbling and Once"
+    },
+    {
+        "id": "26",
+        "name": "Stripe Follow Along Nav"
+    },
+    {
+        "id": "27",
+        "name": "Click and Drag"
+    },
+    {
+        "id": "28",
+        "name": "Video Speed Controller"
+    },
+    {
+        "id": "29",
+        "name": "Countdown Timer"
+    },
+    {
+        "id": "30",
+        "name": "Whack A Mole"
+    }
+]
