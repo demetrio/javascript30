@@ -33,10 +33,11 @@ function createPractice(course) {
 
     const h3 = document.createElement('h3');
     h3.setAttribute('class', 'portfolio-card-title');
+    h3.textContent = course.name;
 
     const p = document.createElement('p');
     p.setAttribute('class', 'portfolio-card-p');
-    p.textContent = 'Project description';
+    p.textContent = course.description;
 
     card.appendChild(img);
     card.appendChild(h3);

@@ -1,122 +1,152 @@
 [
     {
         "id": "1",
-        "name": "JavaScript Drum Kit"
+        "name": "JavaScript Drum Kit",
+        "description": "todo..."
     },
     {
         "id": "2",
-        "name": "JS and CSS Clock"
+        "name": "JS and CSS Clock",
+        "description": "todo..."
     },
     {
         "id": "3",
-        "name": "CSS Variables"
+        "name": "CSS Variables",
+        "description": "todo..."
     },
     {
         "id": "4",
-        "name": "Array Cardio Day 1"
+        "name": "Array Cardio Day 1",
+        "description": "todo..."
     },
     {
         "id": "5",
-        "name": "Flex Panel Gallery"
+        "name": "Flex Panel Gallery",
+        "description": "todo..."
     },
     {
         "id": "6",
-        "name": "Type Ahead"
+        "name": "Type Ahead",
+        "description": "todo..."
     },
     {
         "id": "7",
-        "name": "Array Cardio Day 2"
+        "name": "Array Cardio Day 2",
+        "description": "todo..."
     },
     {
         "id": "8",
-        "name": "Fun with HTML5 Canvas"
+        "name": "Fun with HTML5 Canvas",
+        "description": "todo..."
     },
     {
         "id": "9",
-        "name": "Dev Tools Domination"
+        "name": "Dev Tools Domination",
+        "description": "todo..."
     },
     {
         "id": "10",
-        "name": "Hold Shift and Check Checkboxes"
+        "name": "Hold Shift and Check Checkboxes",
+        "description": "todo..."
     },
     {
         "id": "11",
-        "name": "Custom Video Player"
+        "name": "Custom Video Player",
+        "description": "todo..."
     },
     {
         "id": "12",
-        "name": "Key Sequence Detection"
+        "name": "Key Sequence Detection",
+        "description": "todo..."
     },
     {
         "id": "13",
-        "name": "Slide in on Scroll"
+        "name": "Slide in on Scroll",
+        "description": "todo..."
     },
     {
         "id": "14",
-        "name": "JavaScript References VS Copying"
+        "name": "JavaScript References VS Copying",
+        "description": "todo..."
     },
     {
         "id": "15",
-        "name": "LocalStorage"
+        "name": "LocalStorage",
+        "description": "todo..."
     },
     {
         "id": "16",
-        "name": "Mouse Move Shadow"
+        "name": "Mouse Move Shadow",
+        "description": "todo..."
     },
     {
         "id": "17",
-        "name": "Sort Without Articles"
+        "name": "Sort Without Articles",
+        "description": "todo..."
     },
     {
         "id": "18",
-        "name": "Adding Up Times with Reduce"
+        "name": "Adding Up Times with Reduce",
+        "description": "todo..."
     },
     {
         "id": "19",
-        "name": "Webcam Fun"
+        "name": "Webcam Fun",
+        "description": "todo..."
     },
     {
         "id": "20",
-        "name": "Speech Detection"
+        "name": "Speech Detection",
+        "description": "todo..."
     },
     {
         "id": "21",
-        "name": "Geolocation"
+        "name": "Geolocation",
+        "description": "todo..."
     },
     {
         "id": "22",
-        "name": "Follow Along Link Highlighter"
+        "name": "Follow Along Link Highlighter",
+        "description": "todo..."
     },
     {
         "id": "23",
-        "name": "Speech Synthesis"
+        "name": "Speech Synthesis",
+        "description": "todo..."
     },
     {
         "id": "24",
-        "name": "Sticky Nav"
+        "name": "Sticky Nav",
+        "description": "todo..."
     },
     {
         "id": "25",
-        "name": "Event Capture, Propagation, Bubbling and Once"
+        "name": "Event Capture, Propagation, Bubbling and Once",
+        "description": "todo..."
     },
     {
         "id": "26",
-        "name": "Stripe Follow Along Nav"
+        "name": "Stripe Follow Along Nav",
+        "description": "todo..."
     },
     {
         "id": "27",
-        "name": "Click and Drag"
+        "name": "Click and Drag",
+        "description": "todo..."
     },
     {
         "id": "28",
-        "name": "Video Speed Controller"
+        "name": "Video Speed Controller",
+        "description": "todo..."
     },
     {
         "id": "29",
-        "name": "Countdown Timer"
+        "name": "Countdown Timer",
+        "description": "todo..."
     },
     {
         "id": "30",
-        "name": "Whack A Mole"
+        "name": "Whack A Mole",
+        "description": "todo..."
     }
 ]
