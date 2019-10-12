@@ -2,7 +2,7 @@ body {
     font-family: 'Raleway', sans-serif;
     color: #555;
     font-size: 1rem;
-    background: url(https://javascript30.com/images/topographic-pattern.png);
+    background: url('../img/pattern.png');
 }
 
 h1 {
@@ -16,24 +16,33 @@ a,
     color: inherit;
 }
 
+.portfolio-card {
+    position: relative;
+}
+
+.portfolio-card:hover {
+    transform: scale(1.1);
+}
+
 .portfolio-title.wesbos {
     font-size: 1.75rem;
     font-weight: 700;
-
+    transition: transform 250ms;
     color: #ffc600;
     margin: 1em;
 }
 
-.wesbos:hover,
-.wesbos:focus {
+.portfolio-title.wesbos:hover,
+.portfolio-title.wesbos:focus {
     transform: scale(1.1);
 }
 
 .portfolio {
+    width: 80%;
     padding: 1em;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-gap: 1em;
+    grid-gap: 2em;
 }
 
 .portfolio-title {
