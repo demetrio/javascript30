@@ -27,7 +27,10 @@ fetchMovieList(myRequest);
 function createPractice(course) {
     const card = document.createElement('a');
     card.setAttribute('class', 'portfolio-card');
-    card.setAttribute('href', 'test.html');
+
+    const a = document.createElement('a');
+    a.setAttribute('class', 'link');
+    a.setAttribute('href', 'test.html');
 
     const img = document.createElement('img');
     img.setAttribute('src', 'https://unsplash.it/1920/1080');
@@ -40,6 +43,7 @@ function createPractice(course) {
     p.setAttribute('class', 'portfolio-card-p');
     p.textContent = course.description;
 
+    card.appendChild(a);
     card.appendChild(img);
     card.appendChild(h3);
     card.appendChild(p);

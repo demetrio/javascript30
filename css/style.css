@@ -19,14 +19,13 @@ a,
 .portfolio-title.wesbos {
     font-size: 1.75rem;
     font-weight: 700;
-    transform: scale(1);
-    transition: transform 250ms;
+
     color: #ffc600;
     margin: 1em;
 }
 
-.portfolio-title.wesbos:hover,
-.portfolio-title.wesbos:focus {
+.wesbos:hover,
+.wesbos:focus {
     transform: scale(1.1);
 }
 
