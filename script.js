@@ -25,7 +25,7 @@ function fetchMovieList(request) {
 fetchMovieList(myRequest);
 
 function createPractice(course) {
-    const card = document.createElement('a');
+    const card = document.createElement('div');
     card.setAttribute('class', 'portfolio-card');
 
     const a = document.createElement('a');
