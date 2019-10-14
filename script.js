@@ -27,7 +27,7 @@ fetchMovieList(myRequest);
 function createPractice(course) {
     const card = document.createElement('a');
     card.setAttribute('class', 'portfolio-card');
-    card.setAttribute('href', `exercises/${course.id}/index.html`);
+    card.setAttribute('href', `exercises/${course.id}/`);
 
     const img = document.createElement('img');
     img.setAttribute('src', 'https://unsplash.it/1920/1080');
