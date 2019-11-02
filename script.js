@@ -31,6 +31,7 @@ function createPractice(course) {
 
     const img = document.createElement('img');
     img.setAttribute('src', `img/exercises-img/${course.id}.jpg/`);
+    img.setAttribute('alt', `Image of the ${course.id}/30 exercise`);
 
     const h3 = document.createElement('h3');
     h3.setAttribute('class', 'portfolio-card-title');
