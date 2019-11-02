@@ -2,37 +2,37 @@
     {
         "id": "1",
         "name": "JavaScript Drum Kit",
-        "description": "todo..."
+        "description": "Play the drums with key-events!"
     },
     {
         "id": "2",
         "name": "JS and CSS Clock",
-        "description": "todo..."
+        "description": "Simple analog clock with transforms"
     },
     {
         "id": "3",
         "name": "CSS Variables",
-        "description": "todo..."
+        "description": "How to change CSS variables"
     },
     {
         "id": "4",
         "name": "Array Cardio Day 1",
-        "description": "todo..."
+        "description": "Basic and practical exercises with Arrays"
     },
     {
         "id": "5",
         "name": "Flex Panel Gallery",
-        "description": "todo..."
+        "description": "A simple but elegant flex-gallery "
     },
     {
         "id": "6",
         "name": "Type Ahead",
-        "description": "todo..."
+        "description": "Intuitive data search with a twist"
     },
     {
         "id": "7",
         "name": "Array Cardio Day 2",
-        "description": "todo..."
+        "description": "Basic and practical exercises with Arrays (II)"
     },
     {
         "id": "8",
