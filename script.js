@@ -30,7 +30,7 @@ function createPractice(course) {
     card.setAttribute('href', `exercises/${course.id}/`);
 
     const img = document.createElement('img');
-    img.setAttribute('src', 'https://unsplash.it/1920/1080');
+    img.setAttribute('src', `img/exercises-img/${course.id}.jpg/`);
 
     const h3 = document.createElement('h3');
     h3.setAttribute('class', 'portfolio-card-title');
