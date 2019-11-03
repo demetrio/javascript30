@@ -121,7 +121,7 @@
     },
     {
         "id": "25",
-        "name": "Event Capture, Propagation, Bubbling and Once",
+        "name": "Event Capture, Propagation, Bubbling...",
         "description": "Simple example to understand how event capture works"
     },
     {
