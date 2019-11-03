@@ -37,116 +37,116 @@
     {
         "id": "8",
         "name": "Fun with HTML5 Canvas",
-        "description": "todo..."
+        "description": "Simple canvas"
     },
     {
         "id": "9",
         "name": "Dev Tools Domination",
-        "description": "todo..."
+        "description": "Cool set of console tricks"
     },
     {
         "id": "10",
         "name": "Hold Shift and Check Checkboxes",
-        "description": "todo..."
+        "description": "A todo-list with checkboxes"
     },
     {
         "id": "11",
         "name": "Custom Video Player",
-        "description": "todo..."
+        "description": "Simple custom video player with fullscreen option"
     },
     {
         "id": "12",
         "name": "Key Sequence Detection",
-        "description": "todo..."
+        "description": "Custom Konami code"
     },
     {
         "id": "13",
         "name": "Slide in on Scroll",
-        "description": "todo..."
+        "description": "Article with images that appear as you read"
     },
     {
         "id": "14",
         "name": "JavaScript References VS Copying",
-        "description": "todo..."
+        "description": "Console examples to distinguish references and copying"
     },
     {
         "id": "15",
         "name": "LocalStorage",
-        "description": "todo..."
+        "description": "Example of how to use the browser's local storage"
     },
     {
         "id": "16",
         "name": "Mouse Move Shadow",
-        "description": "todo..."
+        "description": "Flashlight effect with the mouse"
     },
     {
         "id": "17",
         "name": "Sort Without Articles",
-        "description": "todo..."
+        "description": "Put into practice what we learned in the Array Cardio days"
     },
     {
         "id": "18",
         "name": "Adding Up Times with Reduce",
-        "description": "todo..."
+        "description": "Examples of array.map and array.reduce"
     },
     {
         "id": "19",
         "name": "Webcam Fun",
-        "description": "todo..."
+        "description": "Use LocalMediaStream interface to take some pictures with your webcam"
     },
     {
         "id": "20",
         "name": "Speech Detection",
-        "description": "todo..."
+        "description": "Speech Detection, but it only works on Google Chrome"
     },
     {
         "id": "21",
         "name": "Geolocation",
-        "description": "todo..."
+        "description": "A simple and smart compass"
     },
     {
         "id": "22",
         "name": "Follow Along Link Highlighter",
-        "description": "todo..."
+        "description": "Learn how to work with coordinates"
     },
     {
         "id": "23",
         "name": "Speech Synthesis",
-        "description": "todo..."
+        "description": "A funny and easy speech Synthesis"
     },
     {
         "id": "24",
         "name": "Sticky Nav",
-        "description": "todo..."
+        "description": "Cool navbar that sticks to the top of the site"
     },
     {
         "id": "25",
         "name": "Event Capture, Propagation, Bubbling and Once",
-        "description": "todo..."
+        "description": "Simple example to understand how event capture works"
     },
     {
         "id": "26",
         "name": "Stripe Follow Along Nav",
-        "description": "todo..."
+        "description": "A navbar that auto-resize itself"
     },
     {
         "id": "27",
         "name": "Click and Drag",
-        "description": "todo..."
+        "description": "Nice and different carousel"
     },
     {
         "id": "28",
         "name": "Video Speed Controller",
-        "description": "todo..."
+        "description": "A simple video player with video-speed controller"
     },
     {
         "id": "29",
         "name": "Countdown Timer",
-        "description": "todo..."
+        "description": "Reinventing the pomodoro timer"
     },
     {
         "id": "30",
         "name": "Whack A Mole",
-        "description": "todo..."
+        "description": "Simple, competitive and stressful game"
     }
 ]
