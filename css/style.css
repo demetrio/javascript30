@@ -16,7 +16,7 @@ h1 {
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
 }
 
 a {
@@ -62,4 +62,10 @@ a {
 .portfolio-card-title {
     font-size: 1.5rem;
     color: #000;
+}
+
+@media (max-width: 430px) {
+    body {
+        margin: 1.5em;
+    }
 }
