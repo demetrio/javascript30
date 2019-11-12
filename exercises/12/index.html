@@ -1,28 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <link rel="apple-touch-icon" sizes="72x72" href="/img/apple-icon-72x72.png" />
-        <link rel="icon" type="image/png" sizes="192x192" href="/img/android-icon-72x72.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png" />
-        <title>Key Detection</title>
-        <script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
-    </head>
-    <body>
-        <script>
-            const pressed = [];
-            const secretCode = 'demetrio';
-
-            window.addEventListener('keyup', e => {
-                console.log(e.key);
-                pressed.push(e.key);
-                pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
-                if (pressed.join('').includes(secretCode)) {
-                    console.log('Info: Cornify also checks the Konami Code!!');
-                    cornify_add();
-                }
-                console.log(pressed);
-            });
-        </script>
-    </body>
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-icon-72x72.png" />
+		<link rel="icon" type="image/png" sizes="192x192" href="/img/android-icon-72x72.png" />
+		<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png" />
+		<title>Key Detection</title>
+		<script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
+	</head>
+	<body>
+		<script src="script.js"></script>
+	</body>
 </html>
